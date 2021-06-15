@@ -22,11 +22,15 @@ Cheers~
 
 # Show for you
 
-**IETF official video for this meeting:** https://www.youtube.com/watch?v=qbryDg8fXRM
+**IETF official video for this meeting:**
+* Youtube: https://www.youtube.com/watch?v=qbryDg8fXRM
+* Bilibili: https://www.bilibili.com/video/BV1hU4y1p7Fi?share_source=copy_web
 
-**Local screen recording for our presentation:** https://www.youtube.com/watch?v=2qp_C5zApcM
+**Local screen recording for our presentation:**
+* Youtube: https://www.youtube.com/watch?v=2qp_C5zApcM
+* Bilibili: https://www.bilibili.com/video/BV1nV411Y7mW?share_source=copy_web
 
-**Presentation Slides:** [Download PDF](https://github.com/G-SRv6/IETF-110-Hackathon-Demo/blob/master/Application-aware_G-SRv6_networking__Demo_and_Test.pdf)
+**Presentation Slides:** [Download PDF](https://github.com/MaoJianwei/IETF-110-Hackathon-Demo/blob/master/Application-aware_G-SRv6_networking-IETF_110_Hackathon-Huawei-v1.6.pdf)
 
 
 # Our team
